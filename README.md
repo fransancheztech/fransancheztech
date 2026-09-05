@@ -1,31 +1,21 @@
-<p align="center" width="300">
+### Hi, I'm Fran 👋
 
-   <img align="center" width="400" src="https://user-images.githubusercontent.com/118598218/263498065-1b969e3b-7409-4b0a-ba00-6851fed240da.png" />
+Python and platform engineer in Seville. I work at the seam between enterprise
+automation and ordinary software practice — orchestrating production automations
+from Airflow DAGs and building the services around them.
 
-   <h3 align="center">¡Hola 👋! Soy Fran 👨🏻‍💻</h3>
-   
-   <p align="center">
-      <a href="https://www.linkedin.com/in/franscoder">
-         <img src="https://raw.githubusercontent.com/franscoder/franscoder/main/images/linkedin.png" alt="icon | LinkedIn" width="45px"/>
-      </a>
-      <a href="https://twitter.com/franscoder">
-         <img src="https://raw.githubusercontent.com/franscoder/franscoder/main/images/twitter.png" alt="icon | Twitter" width="45px"/>
-      </a>
-   </p>
-   
+At **Nartex** I built and run a retrieval pipeline over public-procurement data,
+and introduced Git, shared component libraries and GitHub Actions CI/CD to a team
+that had only ever worked in low-code tooling.
+
+Alongside that I co-own and operate a wellness centre in Seville, and I built the
+booking platform it runs on — which means I also deploy it, support it, and live
+with my own design decisions.
+
+**Mostly working in**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,js,nodejs,express,postgres,mongodb,supabase,docker,git,github,react,nextjs,tailwind,sass" />
 </p>
 
-## 💫 Sobre mí:
-🔍 ¡En busca de nuevos retos!<br>💬 Pregúntame lo que quieras sobre React.js<br>🌱 Aprendiendo Node.js<br>⚡ Me encanta la tecnología.
-
-## 💻 Tecnologías que utilizo:
-<p align="center">
-  <a href="https://franscoder.com">
-    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,js,nodejs,ts,express,vscode,git,github,html,css,graphql,mongodb,postgres,mysql,sqlite,styledcomponents,tailwind,postman,vite,figma,sass,d3,latex,matlab,tensorflow" />
-  </a>
-</p>
-
-## 📊 Mi actividad en GitHub:
-![](https://github-readme-streak-stats.herokuapp.com/?user=franscoder&theme=react&hide_border=false)<br/>
-
-[![](https://visitcount.itsvg.in/api?id=franscoder&icon=0&color=0)](https://visitcount.itsvg.in)
+[fransancheztech.com](https://fransancheztech.com) · [LinkedIn](https://www.linkedin.com/in/fransancheztech) · [X](https://x.com/FranSanchezTech)
