@@ -5,8 +5,9 @@ automation and ordinary software practice — orchestrating production automatio
 from Airflow DAGs and building the services around them.
 
 At **Nartex** I built and run a retrieval pipeline over public-procurement data,
-and introduced Git, shared component libraries and GitHub Actions CI/CD to a team
-that had only ever worked in low-code tooling.
+and wrote the Python ETL layer that runs ahead of our automations so the robots
+only handle processing. Before that, at an RPA consultancy, I brought Git to a
+codebase that had never used version control.
 
 Alongside that I co-own and operate a wellness centre in Seville, and I built the
 booking platform it runs on — which means I also deploy it, support it, and live
